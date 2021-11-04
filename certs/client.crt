@@ -1,0 +1,79 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 2 (0x2)
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=TH, ST=Bangkok, L=Chatuchak, O=Kasetsart University/emailAddress=info@ku.ac.th, CN=KUWIN
+        Validity
+            Not Before: Oct 22 12:05:29 2021 GMT
+            Not After : Oct 17 12:05:29 2022 GMT
+        Subject: C=TH, ST=Bangkok, O=Kasetsart University, CN=user@kuwin/emailAddress=user@ku.ac.th
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:bc:5e:54:db:9a:81:41:88:40:ec:6a:96:5b:28:
+                    26:90:fd:12:c4:f1:c1:50:d1:f8:40:69:99:2e:ba:
+                    46:b7:5e:8c:e7:7b:b5:e7:50:1b:b2:47:f1:00:bd:
+                    d0:7d:2b:c3:ea:f6:4c:a5:78:b5:96:b7:78:03:6c:
+                    eb:1e:1b:a4:40:0c:e8:15:66:74:e8:3a:ba:2e:80:
+                    ad:e9:57:a1:cf:d4:cb:c0:3b:71:3f:f1:96:6a:02:
+                    88:d4:5f:01:6b:67:48:bd:05:37:f2:81:8a:d5:9e:
+                    03:09:5a:da:95:6a:0b:9d:2a:c5:4f:80:01:8f:3d:
+                    dc:0b:cd:36:22:41:c3:b8:d7:07:4d:85:2b:31:6d:
+                    1e:b2:d7:44:31:3d:9a:66:39:57:23:56:2d:f7:26:
+                    1b:ce:00:ef:0f:2a:e6:07:b6:82:66:71:17:3f:7b:
+                    cb:8e:ca:78:b3:37:65:9d:30:f7:14:ee:9b:77:0c:
+                    41:94:87:e3:b9:02:8c:c6:b1:a0:39:3e:05:dd:aa:
+                    dc:4c:43:e9:f0:26:94:09:2f:5b:d9:72:f9:83:a9:
+                    33:dc:c1:a1:65:b4:a4:31:9a:f7:b9:e6:4c:34:b9:
+                    32:7c:1e:36:a1:e2:43:44:eb:34:76:c2:d6:a2:31:
+                    14:6b:c0:4d:2a:aa:bd:d1:f0:c1:70:14:b3:20:d9:
+                    37:3d
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 CRL Distribution Points: 
+
+                Full Name:
+                  URI:http://www.example.com/example_ca.crl
+
+    Signature Algorithm: sha256WithRSAEncryption
+         98:ff:3a:c2:52:8b:69:ea:a0:87:12:f1:25:12:0c:22:c8:4b:
+         b9:95:8f:26:16:21:b7:f6:79:b4:35:d1:a6:4a:2c:11:1c:06:
+         29:80:38:b9:e4:24:22:fa:71:d0:d5:ab:3a:12:ca:b3:2b:ef:
+         3d:5a:28:5b:0e:e2:4f:bf:12:ed:c6:4c:e7:c9:b0:0f:cb:d5:
+         33:fd:a4:45:64:9b:d5:79:f8:84:b6:b1:0c:47:10:ac:77:30:
+         7e:a4:91:66:f5:1d:8c:4e:87:b5:4b:92:5c:e4:bc:17:03:8b:
+         4d:8a:8a:f3:15:a5:58:04:2d:be:ee:e9:9f:f4:fc:52:16:ef:
+         bb:46:94:a2:b6:b2:74:92:7a:eb:6a:f5:49:68:00:d7:b1:1f:
+         6b:03:8f:31:52:53:1c:e1:6c:94:27:fd:24:3b:f8:46:47:10:
+         34:91:ea:4e:ac:08:cd:c1:e7:ec:ff:3c:16:86:1f:34:ae:51:
+         39:c5:59:36:52:08:23:b1:52:76:60:66:a4:5f:85:16:4a:8a:
+         19:5c:01:38:61:8a:17:41:ee:a2:02:00:2b:ad:12:91:be:b8:
+         9c:ee:f7:69:fb:55:2e:fe:d1:f1:d8:e6:92:53:68:21:3b:de:
+         02:18:89:da:c1:f1:ef:c9:c1:48:2e:09:eb:c9:84:de:50:b2:
+         cf:b4:a5:39
+-----BEGIN CERTIFICATE-----
+MIIDvDCCAqSgAwIBAgIBAjANBgkqhkiG9w0BAQsFADCBgDELMAkGA1UEBhMCVEgx
+EDAOBgNVBAgMB0Jhbmdrb2sxEjAQBgNVBAcMCUNoYXR1Y2hhazEdMBsGA1UECgwU
+S2FzZXRzYXJ0IFVuaXZlcnNpdHkxHDAaBgkqhkiG9w0BCQEWDWluZm9Aa3UuYWMu
+dGgxDjAMBgNVBAMMBUtVV0lOMB4XDTIxMTAyMjEyMDUyOVoXDTIyMTAxNzEyMDUy
+OVowcTELMAkGA1UEBhMCVEgxEDAOBgNVBAgMB0Jhbmdrb2sxHTAbBgNVBAoMFEth
+c2V0c2FydCBVbml2ZXJzaXR5MRMwEQYDVQQDDAp1c2VyQGt1d2luMRwwGgYJKoZI
+hvcNAQkBFg11c2VyQGt1LmFjLnRoMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEAvF5U25qBQYhA7GqWWygmkP0SxPHBUNH4QGmZLrpGt16M53u151Abskfx
+AL3QfSvD6vZMpXi1lrd4A2zrHhukQAzoFWZ06Dq6LoCt6Vehz9TLwDtxP/GWagKI
+1F8Ba2dIvQU38oGK1Z4DCVralWoLnSrFT4ABjz3cC802IkHDuNcHTYUrMW0estdE
+MT2aZjlXI1Yt9yYbzgDvDyrmB7aCZnEXP3vLjsp4szdlnTD3FO6bdwxBlIfjuQKM
+xrGgOT4F3arcTEPp8CaUCS9b2XL5g6kz3MGhZbSkMZr3ueZMNLkyfB42oeJDROs0
+dsLWojEUa8BNKqq90fDBcBSzINk3PQIDAQABo08wTTATBgNVHSUEDDAKBggrBgEF
+BQcDAjA2BgNVHR8ELzAtMCugKaAnhiVodHRwOi8vd3d3LmV4YW1wbGUuY29tL2V4
+YW1wbGVfY2EuY3JsMA0GCSqGSIb3DQEBCwUAA4IBAQCY/zrCUotp6qCHEvElEgwi
+yEu5lY8mFiG39nm0NdGmSiwRHAYpgDi55CQi+nHQ1as6EsqzK+89WihbDuJPvxLt
+xkznybAPy9Uz/aRFZJvVefiEtrEMRxCsdzB+pJFm9R2MToe1S5Jc5LwXA4tNiorz
+FaVYBC2+7umf9PxSFu+7RpSitrJ0knrravVJaADXsR9rA48xUlMc4WyUJ/0kO/hG
+RxA0kepOrAjNwefs/zwWhh80rlE5xVk2UggjsVJ2YGakX4UWSooZXAE4YYoXQe6i
+AgArrRKRvric7vdp+1Uu/tHx2OaSU2ghO94CGInawfHvycFILgnryYTeULLPtKU5
+-----END CERTIFICATE-----

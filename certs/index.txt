@@ -1,0 +1,2 @@
+V	221017115423Z		01	unknown	/C=TH/ST=Bangkok/O=Kasetsart University/CN=KUWIN/emailAddress=info@ku.ac.th
+V	221017120529Z		02	unknown	/C=TH/ST=Bangkok/O=Kasetsart University/CN=user@kuwin/emailAddress=user@ku.ac.th
